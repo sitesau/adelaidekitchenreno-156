@@ -1,0 +1,22 @@
+{
+  "wheel_id": 862,
+  "structure": "umbrella",
+  "slug": "adelaidekitchenreno-156",
+  "project": "kitchen-renovations-adelaide-faq-eb7580f6e5139b1f034530be68fecb",
+  "parent_t1_ref": "adelaidekitchenreno-016",
+  "node_role": "buffer",
+  "money_target": "adelaidekitchenreno.com.au",
+  "primary_kw": "kitchen renovations adelaide faq",
+  "intended_url": "https://sitesau.github.io/adelaidekitchenreno-156/",
+  "tier": "T2",
+  "writeback_nonce": "a8a2642152310ad5",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/kitchen-renovations-adelaide-016/",
+      "anchor": "Kitchen Renovations Adelaide: A Practical Homeowner Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
